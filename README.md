@@ -18,8 +18,9 @@ We assume that various factors impact the Length of Stay (LOS). These factors ar
 - Hospital-Level Factors
 - Ward Type: ICU patients usually stay longer than those in general wards.
 - Department: Patients in surgery departments often have longer recovery times compared to other departments like gynecology.
-- Data Exploration
-- The dataset comprises 318,438 observations and 17 variables, with the target variable "Stay" divided into 11 classes ranging from 0 to over 100 days. Key variables include case_id, Hospital_code, Type of Admission, Severity of Illness, Visitors with Patient, Age, and Admission_Deposit.
+
+## Data Exploration
+The dataset comprises 318,438 observations and 17 variables, with the target variable "Stay" divided into 11 classes ranging from 0 to over 100 days. Key variables include case_id, Hospital_code, Type of Admission, Severity of Illness, Visitors with Patient, Age, and Admission_Deposit.
 
 ## Data Cleaning and Preparation
 Missing values in the "City_code_patient" and "Bed Grade" variables were imputed using the mode. Ordinal data was transformed using label encoding for further analysis.
