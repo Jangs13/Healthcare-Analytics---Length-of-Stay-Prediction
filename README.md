@@ -1,5 +1,5 @@
 # Healthcare Analytics - Length of Stay Prediction
-
+![Banner](https://github.com/Jangs13/Healthcare-Analytics---Length-of-Stay-Prediction/blob/master/images/proj4.jpeg)
 ## Introduction
 Healthcare organizations are under increasing pressure to improve patient care outcomes and achieve better care. This project leverages healthcare analytics to predict the Length of Stay (LOS) for patients. By analyzing data using quantitative and qualitative techniques, we aim to provide insights that can help hospitals optimize treatment plans and reduce infection rates, thereby improving overall patient care.
 
