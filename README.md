@@ -37,7 +37,7 @@ An XGBoost classifier with tuned parameters was employed, achieving an accuracy 
 ![XGBoost](https://github.com/Jangs13/Healthcare-Analytics---Length-of-Stay-Prediction/blob/master/images/XGboost.png)
 
 ## Model 3: Neural Networks
-A neural network with six dense layers and a SoftMax output layer was used. Despite being theoretically better, it achieved an accuracy of 42.05% due to the smaller dataset.
+A neural network with six dense layers and a SoftMax output layer was used. Despite being theoretically better, it achieved an accuracy of 42.19% due to the smaller dataset.
 ![Neural Network](https://github.com/Jangs13/Healthcare-Analytics---Length-of-Stay-Prediction/blob/master/images/Neural%20Network.png)
 
 ## Prediction and Results
