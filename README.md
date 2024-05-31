@@ -26,7 +26,7 @@ Missing values in the "City_code_patient" and "Bed Grade" variables were imputed
 
 ## Feature Engineering
 We created new features such as "count_id_patient," "count_id_patient_hospitalCode," and "count_id_patient_wardfacilityCode" to capture the count of multiple admissions for patients in different contexts.
-
+![Feature Eng](https://github.com/Jangs13/Healthcare-Analytics---Length-of-Stay-Prediction/blob/master/images/Feature%20Eng.png)
 ## Modelling Strategy
 Model 1: Naïve Bayes
 A Gaussian Naïve Bayes classifier was used, achieving an accuracy of 34.55%.
